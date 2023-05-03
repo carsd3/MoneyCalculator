@@ -1,0 +1,11 @@
+model\ExchangeRate.class
+model\Currency.class
+controller\file\IteratorReader$1.class
+controller\RateLoader.class
+view\View$1.class
+controller\rest\RateLoaderClass.class
+view\View.class
+controller\CurrencyLoader.class
+controller\file\CurrencyLoaderFromFile.class
+view\MoneyCalculator.class
+controller\file\IteratorReader.class
